@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ayush-Raj-189/Quicklinks.git
+git clone https://github.com/Ayush-Raj189/Quicklinks.git
 cd quicklinks-url-shortener
 
 2. Install Dependencies
